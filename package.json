@@ -1,0 +1,24 @@
+{
+  "name": "notion-github-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/my_notion.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kris524/notion-github-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kris524/notion-github-sync/issues"
+  },
+  "homepage": "https://github.com/kris524/notion-github-sync#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "notion-client": "^6.16.0",
+    "octokit": "^3.1.2"
+  }
+}
