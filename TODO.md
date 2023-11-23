@@ -4,7 +4,7 @@ It is important we keep everything as it curretly is so everyone has the same se
 
 For example:
 
-Rejected -> wont fix 
+Rejected -> no label (maybe set wont fix later but that would be reading the label data from two different places)
 To reveiw -> no label
 Validating -> no label
 Tasks backlog -> no label
