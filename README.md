@@ -20,3 +20,18 @@ Follow these simple steps to integrate Notion and GitHub:
 
 <!-- 1. **Clone the Repository:**
    Clone this repository to your local environment. -->
+
+1. **Create a New Notion Page:**
+   - Open Notion and create a new page.
+   - Under "Add new," select Templates.
+   - Scroll down to the Engineering section and click on `2 more...`.
+   - Choose the "Bug Tracker" template.
+
+2. **Configure Notion-GitHub Connection:**
+   - Once on the Bug Tracker page, click on the three dots at the top right.
+   - Navigate to "Connections" and click on `+ Add connections`.
+   - Select "Notion GitHub Sync" from the available options.
+
+3. **You're Done!**
+   - Your Notion workspace is now seamlessly connected to GitHub.
+   - The integration is optimized for the Bug Tracker template, ensuring a smooth tracking process.
